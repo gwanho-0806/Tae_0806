@@ -25,4 +25,4 @@ I used pwd to keep the current directory visible next to the hostname looking li
 
 6. user, name -> I made it keep popping up in the window through getpwuid(getuid())->pw_name
 
-  OS: Linux
+  OS: Ubuntu 18.04
